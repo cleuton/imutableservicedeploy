@@ -31,7 +31,7 @@ public class SignatureResource {
 	    	}
 	    	else {
 	    		status = "success";
-	    		mensagem = "assinatura esta ok!";    		
+	    		mensagem = "assinatura confere!!";    		
 	    	}
 		} catch (Exception e) {
 			status = "error";
